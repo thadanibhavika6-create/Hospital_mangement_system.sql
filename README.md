@@ -250,7 +250,7 @@ Rather than a static screenshot, this project ships an actual **live, clickable 
 
 ### 👤 Author
 
-**Your Name**
+**Bhavika Thadani**
 📍 Ahmedabad
 
 *(edit this section with your name/handle before publishing)*

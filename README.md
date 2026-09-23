@@ -248,6 +248,9 @@ Rather than a static screenshot, this project ships an actual **live, clickable 
 
 <div align="center">
 
+<img width="3200" height="2000" alt="sample_output (4)" src="https://github.com/user-attachments/assets/ab4d41ed-ea11-4be0-b837-9b3248026b1c" />
+
+
 ### 👤 Author
 
 **Bhavika Thadani**
